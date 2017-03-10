@@ -6,7 +6,7 @@
       public function HassanFN()
       {
         
-          $num = 1;
+          $num = 2;
           echo "Hassan $num";
 
       }
