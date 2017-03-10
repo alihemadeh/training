@@ -7,23 +7,16 @@
       {
         
           $num = 2;
-          $username = "whatever";
-          $password = "something Secret";
-            
           echo "Hassan $num";
-            if ( isset($_SESSION['pass']) )
-            {
-             
-                  // something goes here...
-                  
-                  
-                  return 0;
-            }
-            
-            return 1;
-            
+
       }
 
+      public function AliFN()
+      {
+        
+          $num = 5;
+          echo "Ali $num";
 
+      }
       
       
