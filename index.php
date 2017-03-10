@@ -1,6 +1,6 @@
 <?php
 
-      // author: Hassan Hrayem
+      // author: Hassan Krayem
       // description: file for testing multiple pull requests..
       
       public function HassanFN()
